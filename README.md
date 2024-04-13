@@ -1,9 +1,9 @@
 <center><h1># Weather-App-System</h1></center>
 Show the Weather Predictions by using the Weather API, project of AI!❤❤😎✔
 <br>
-<h1>**Weather App**</h1>
+<h1>Weather App</h1>
 
-<h1>**Problem Statement:**</h1>
+<h1>Problem Statement:</h1>
 <p>
 1. **Accessibility**: Many existing weather apps lack comprehensive global coverage or are limited in the number of cities they provide information for.<br>
 2. **Accuracy**: Some weather apps struggle with providing accurate and up-to-date information, leading to user frustration and inconvenience.<br>
@@ -12,7 +12,7 @@ Show the Weather Predictions by using the Weather API, project of AI!❤❤😎�
 </p>
 <hr>
 
-<h1>**Objectives:**</h1>
+<h1>Objectives:</h1>
 <p>
 1. **Global Coverage**: Ensure that the weather app provides accurate and detailed information for locations worldwide, catering to users regardless of their geographic location.<br>
 2. **Accuracy and Reliability**: Utilize reliable data sources and employ algorithms to ensure that the weather information presented is accurate and updated in real-time.<br>
@@ -21,7 +21,7 @@ Show the Weather Predictions by using the Weather API, project of AI!❤❤😎�
 </p>
 <hr>
 
-<h1>**Key Points:**</h1>
+<h1>Key Points:</h1>
 <p>
 1. **Comprehensive Data Sourcing**: Integrate with reputable weather data providers to gather accurate and reliable information for locations worldwide.<br>
 2. **Real-Time Updates**: Implement a system to continuously update weather data to ensure that users have access to the most current information.<br>
@@ -35,7 +35,7 @@ Show the Weather Predictions by using the Weather API, project of AI!❤❤😎�
 </p>
 <hr>
 
-<h1>**Technologies Used:**</h1>
+<h1>Technologies Used:</h1>
 <p>
 - **Programming Languages**: Master-JavaScript, HTML(5), CSS(3)<br>
 - **Frameworks/Libraries**: React.js, Bootstrap<br>
@@ -45,7 +45,7 @@ Show the Weather Predictions by using the Weather API, project of AI!❤❤😎�
 </p>
 <hr>
 
-<h1>**Setup Instructions:**</h1>
+<h1>Setup Instructions:</h1>
 <p>
 1. Clone the repository: `git clone https://github.com/your_username/weather-app.git`.<br>
 2. Navigate to the project directory: `cd weather-app`<br>
@@ -55,11 +55,17 @@ Show the Weather Predictions by using the Weather API, project of AI!❤❤😎�
 </p>
 <hr>
 
-<h1>**Contributing:**</h1>
+<h1>Contributing:</h1>
 <p>
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.<br>
 </p>
 <hr>
 
-<h1>**License:**</h1>
+<h1>License:</h1>
 <p>This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.</p>
+
+<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee2.svg">
+<img src="https://camo.githubusercontent.com/42e1b5782fffe784476d846af83c9d4bf17a324d657834084028ff12b0ea2b69/68747470733a2f2f6769746875622d726561646d652d6461696c792d71756f7465732d7472696e69622e76657263656c2e6170702f6170693f7468656d653d6d65726b6f2663617465676f72793d70726f6772616d6d696e6726626f726465723d7472756526626f726465725f636f6c6f723d62646632353926626f726465725f77696474683d3326626f726465725f7261646975733d343026666f6e743d6e65775f726f636b6572">
+<img src="https://camo.githubusercontent.com/63b38e7e49d04296e1e37605b328b9c81d00efa010f39c8d2e191062d6797198/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f7468656d653d6d65726b6f26626f726465723d74727565">
+<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg">
